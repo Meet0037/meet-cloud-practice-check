@@ -1,0 +1,11 @@
+D:\CTS material from tekstac\Cloud hands-on\ICT-practice-check\MenuItemListing\MenuItemListing\obj\Docker\publish\MenuItemListing.exe
+D:\CTS material from tekstac\Cloud hands-on\ICT-practice-check\MenuItemListing\MenuItemListing\obj\Docker\publish\appsettings.Development.json
+D:\CTS material from tekstac\Cloud hands-on\ICT-practice-check\MenuItemListing\MenuItemListing\obj\Docker\publish\appsettings.json
+D:\CTS material from tekstac\Cloud hands-on\ICT-practice-check\MenuItemListing\MenuItemListing\obj\Docker\publish\MenuItemListing.dll
+D:\CTS material from tekstac\Cloud hands-on\ICT-practice-check\MenuItemListing\MenuItemListing\obj\Docker\publish\MenuItemListing.deps.json
+D:\CTS material from tekstac\Cloud hands-on\ICT-practice-check\MenuItemListing\MenuItemListing\obj\Docker\publish\MenuItemListing.runtimeconfig.json
+D:\CTS material from tekstac\Cloud hands-on\ICT-practice-check\MenuItemListing\MenuItemListing\obj\Docker\publish\MenuItemListing.pdb
+D:\CTS material from tekstac\Cloud hands-on\ICT-practice-check\MenuItemListing\MenuItemListing\obj\Docker\publish\Microsoft.OpenApi.dll
+D:\CTS material from tekstac\Cloud hands-on\ICT-practice-check\MenuItemListing\MenuItemListing\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\CTS material from tekstac\Cloud hands-on\ICT-practice-check\MenuItemListing\MenuItemListing\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CTS material from tekstac\Cloud hands-on\ICT-practice-check\MenuItemListing\MenuItemListing\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
